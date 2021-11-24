@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv208&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv208" /> </p>
 
-- 🔭 I’m currently working on **Virtual Operating System**
+- 🔭 I’m currently working on **Virtual OS using GO and FYNE**
 
 - 🌱 I’m currently learning **DSA , DEVELOPMENT(JS,NODEJS) , DEVOPS**
 
