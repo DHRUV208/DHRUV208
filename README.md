@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv208&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv208" /> </p>
 
+- 📝 I am a third year undergrad at The Northcap University , Gurgaon pursuing Computer Science Engineering
+
 - 🔭 I’m currently working on **Virtual OS using GO and FYNE**
 
 - 🌱 I’m currently learning **DSA , DEVELOPMENT(JS,NODEJS) , DEVOPS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/DHRUV208?tab=projects&type=beta](https://github.com/DHRUV208?tab=projects&type=beta)
+- 👨‍💻 All of my projects are available at [https://github.com/DHRUV208?tab=projects](https://github.com/DHRUV208?tab=projects)
 
 - 💬 Ask me about **JS , NODEJS , GOLANG , FYNE**
 
