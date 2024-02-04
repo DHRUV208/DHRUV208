@@ -1,22 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhruv Mehta , Pre-final Year Undergrad </h1>
-<h3 align="center">A passionate developer , tech enthusiast and Open Source Contributor from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruv208&label=Profile%20views&color=0e75b6&style=flat" alt="dhruv208" /> </p>
-
-- 📝 I am a third year undergrad at The Northcap University , Gurgaon pursuing Computer Science Engineering
-
-- 🔭 I’m currently working on **Virtual OS using GO and FYNE**
-
-- 🌱 I’m currently learning **DSA , DEVELOPMENT(JS,NODEJS) , DEVOPS**
-
-- 👨‍💻 All of my projects are available at [https://github.com/DHRUV208?tab=projects](https://github.com/DHRUV208?tab=projects)
-
-- 💬 Ask me about **JS , NODEJS , GOLANG , FYNE**
-
-- 📫 How to reach me **mehtadhruv208@gmail.com**
-
-- ⚡ Fun fact **GOOGLING IS MY TOP SKILL**
-
+<h1 align="center">Hi 👋, I'm Dhruv Mehta , Full Stack Developer </h1>
+<h3 align="center">A passionate developer , tech enthusiast  from India</h3>
 <h3 align="left">Connect with me 👋:</h3>
 <p align="left">
 <a href="https://twitter.com/dhruvmehta208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhruvmehta208" height="30" width="40" /></a>
@@ -29,7 +12,3 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruv208&show_icons=true&locale=en&layout=compact" alt="dhruv208" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruv208&" alt="dhruv208" /></p>
